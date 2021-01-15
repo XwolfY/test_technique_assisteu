@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "csv-writer": "^1.6.0",
+    "pdfreader": "^1.2.8"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}

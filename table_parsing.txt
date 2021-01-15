@@ -1,0 +1,475 @@
+yarn run v1.22.5
+$ node index.js
+{}
+PAGE: 1
+ITER Reporting 23/06/2020
+Work in Progress - Referred Dossiers - Committee (ITRE)
+ITER0002 11:48:34
+Dossier F/A Dossier Title +  Dossier Comments Phase Rapporteur Shadow Rapporteur Responsible
+Procedure Ref. Base & Alias Ann. Date F/A Dossier Dec. Type Adopted Amend. Rapporteur Appointed Group PE Documents FdR Sess. Legal base Rules Exchange
+DGIp/Xp
+Stars - Phase Contribution Trans. Letter
+DGPres
+2018/0227(COD) COM(2018)0434 C8-0256/2018 TFEU172 EP159 F ITRE/9/03009 R - Report Flego Valter (RAP) - Renew 23/07/19
+(***I) - (3.00) TFEU173-p3 EP59-p4
+ITRE/9/03030 F Commission Delegated Regulation supplementing Regulation (EU) 2019/517 of the European Parliament and of the Council by 01
+establishing the eligibility and selection criteria and the procedure for the designation of the Registry of the .eu top-level domain name
+2020/2655(DEA) C(2020)03075 27/05/20 F ITRE/9/03030
+(2.10)
+ITRE/9/02127 F* A New Industrial Strategy for Europe 04 Calenda Carlo Berendsen Tom - PPE Corrado Andre
+Grudler Christophe - Renew Cenini Antonio
+Borchia Paolo - ID
+Bloss Michael - Verts/ALE
+Tobiszowski Grzegorz - ECR
+Botenga Marc - GUE/NGL
+2020/2076(INI) 27/05/20 23/11/20 EP54 F* ITRE/9/02127 R - Report 28/09/20 (P) 22/06/20 Calenda Carlo (RAP) - S&D 19/11/19 S&D PE650.700v01-00 PR 1204655 03/09/20 (P)
+(2.10) 28/05/20 (R)
+A* ENVI/9/02943 A - Opinion 10/09/20 (P) 30/06/20 Lancini Danilo Oscar (RAO) - ID 08/05/20 ID PE652.353v01-00 PA 1205398 29/06/20 (P)
+A INTA/9/02767 A - Opinion 25/06/20 (P) 29/05/20 Buchheit Markus (RAO) - ID 19/02/20 PE650.380v03-00 PA 1205265
+PE652.539v01-00 AM 1206314
+A EMPL/9/02945 A - Opinion 16/07/20 (P) 17/06/20 Cañas Jordi (RAO) - Renew 21/01/20 Renew PE652.607v01-00 PA 1206624 15/06/20 (R)
+PE653.758v01-00 AM 1207099
+A IMCO/9/02946 A - Opinion 03/09/20 (P) 04/06/20 Bielan Adam (RAO) - ECR 13/05/20 ECR PE652.383v01-00 PA 1205498
+PE652.522v02-00 AM 1207130
+A REGI/9/02947 A - Opinion 11/06/20 Penkova Tsvetelina (RAO) - S&D 05/12/19 S&D PE652.349v01-00 PA 1205371
+PE653.785v01-00 AM 1207478
+A PECH/9/03143 L - Opinion in letter form Karleskind Pierre (CHA) - Renew 12/06/20
+A JURI/9/02948 A - Opinion 10/09/20 (P) 23/06/20 Lebreton Gilles (RAO) - ID 09/01/20 PE652.430v01-00 PA 1205841 15/06/20 (R)
+ITRE/9/02353 A* Establishing the Just Transition Fund 04 Buzek Jerzy Hajšel Robert - S&D Ramirez Pineda Elvira
+Cseh Katalin - Renew
+Borchia Paolo - ID
+Hahn Henrike - Verts/ALE
+Szydło Beata - ECR
+Rego Sira - GUE/NGL
+2020/0006(COD) COM(2020)0460 C9-0177/2020 29/01/20 TFEU175-p3 F* REGI/9/02350 R - Report 06/07/20 (P) 21/05/20 Kefalogiannis Manolis (RAP) - PPE 21/01/20 PPE PE648.609v03-00 PR 1202915 12/05/20 (R)
+(***I) - (2.10) PE652.418v01-00 AM 1205769 19/02/20 (R)
+COM(2020)0022 C9-0007/2020
+PE652.417v01-00 AM 1205768
+PE652.416v01-00 AM 1205767
+PE652.419v01-00 AM 1205770
+A* BUDG/9/02355 A - Opinion 22/06/20 (P) 05/05/20 Mureşan Siegfried (RAO) - PPE 05/03/20 PE648.513v01-00 PA 1200973 04/05/20 (R)
+PE650.648v02-00 AM 1205691
+A* ECON/9/02995 A - Opinion 22/06/20 (P) 29/05/20 Hahn Henrike (RAO) - Verts/ALE 23/04/20 Verts/ALE PE650.729v02-00 PA 1205182
+PE652.545v01-00 AM 1206333
+PE652.564v01-00 AM 1206419
+A* EMPL/9/02352 A - Opinion 23/06/20 (P) 13/05/20 Satouri Mounir (RAO) - Verts/ALE 30/01/20 Verts/ALE PE650.398v01-00 PA 1202704 15/04/20 (P)
+PE652.310v01-00 AM 1205199
+PE652.272v01-00 AM 1204978
+How to read the document
+A* ENVI/9/02351 A - Opinion 12/05/20 Vondra Alexandr (RAO) - ECR 24/03/20 ECR PE650.356v03-00 PA 1203899 27/05/20 (P)
+PE652.279v02-00 AM 1206578 04/05/20 (R)
+PE650.732v02-00 AM 1206566
+PE650.633v02-00 AM 1206590
+A* ITRE/9/02353 A - Opinion 29/06/20 (P) 20/05/20 Buzek Jerzy (RAO) - PPE 12/02/20 PPE PE650.713v01-00 PA 1204791 19/05/20 (R)
+PE652.410v01-00 AM 1205745
+Page 3  of 11 Committee: ITRE | Dossier Code: * | Phase: 01 - 04 | Procedure Type: ACI, APP, BUD, CNS, COD, DCE, DEA, DEC, GBD, IMM, INI, INL, INS, NLE, REG, RPS, RSO, RSP | Rapporteur: * | Responsible: * | F/A: *
+EN
+PAGE: 2
+ITER Reporting 01/12/2020
+Work in Progress - Referred Dossiers - Committee (ITRE)
+ITER0002 09:27:07
+Dossier F/A Dossier Title +  Dossier Comments Phase Rapporteur Shadow Rapporteur Responsible
+Procedure Ref. Base & Alias Ann. Date F/A Dossier Dec. Type Adopted Amend. Rapporteur Appointed Group PE Documents FdR Sess. Legal base Rules Exchange
+DGIp/Xp
+Stars - Phase Contribution Trans. Letter
+DGPres
+Committee on Industry, Research and Energy (ITRE)
+ITRE/9/00046 F EU-Switzerland Cooperation Agreement on the European Satellite Navigation Programmes 01 Ott Sven Michael
+2012/0231(NLE) COM(2012)0470 TFEU218-p6a F ITRE/9/00046
+(1.20) A TRAN/9/00047
+ITRE/9/00411 F Cooperation Agreement on a Civil Global Navigation Satellite System (GNSS) between the European Community and its Member 01 Ott Sven Michael
+States, of the one part, and the Republic of Korea, of the other part, to take account of the accession of the Republic of Bulgaria, the
+Republic of Croatia and Romania to the European Union
+2018/0429(NLE) COM(2018)0853 TFEU172 F ITRE/9/00411
+(1.20) TFEU218-p6a
+ITRE/9/01206 F Establishing the European Cybersecurity Industrial, Technology and Research Competence Centre and the Network of National 02 Andresen Rasmus del Castillo Vera Pilar - PPE Benzing Holger
+Coordination Centres
+Geier Jens - S&D
+Gamon Claudia - Renew
+Tošenovský Evžen - ECR
+Botenga Marc - GUE/NGL
+2018/0328(COD) COM(2018)0630 C8-0404/2018 TFEU188-a1 EP159 F ITRE/9/01206 Andresen Rasmus (RAP) - Verts/ALE 02/09/19 12/11/20 (R)
+(***I) - (3.00) TFEU173-p3 EP59-p4 06/07/20 (R)
+ITRE/9/01494 F Cooperation Agreement on a Civil Global Navigation Satellite System (GNSS) between the European Community and its Member 01 Ott Sven Michael
+States and Ukraine to take account of the accession of the Republic of Bulgaria, the Republic of Croatia and Romania to the European
+Union
+2019/0207(NLE) COM(2019)0441 TFEU172 F ITRE/9/01494
+(1.20) TFEU218-p6a
+ITRE/9/03005 F Proposal for a regulation of the European Parliament and of the Council establishing Horizon Europe – the Framework Programme for 04 Nica Dan Ehler Christian - PPE Corrado Andre
+Research and Innovation, laying down its rules for participation and dissemination
+Dlabajová Martina - Renew Heriard Cécile
+Lizzi Elena - ID
+Dalunde Jakop G. - Verts/ALE
+Tošenovský Evžen - ECR
+Georgiou Giorgos - GUE/NGL
+2018/0224(COD) COM(2020)0459 [01] C9-0166/2020 TFEU182-p1 EP159 F ITRE/9/03005 R - Report Nica Dan (RAP) - S&D 13/06/18 15/10/20 (R)
+(***I) - (3.00) TFEU183 EP59-p4
+COM(2018)0435 C8-0252/2018
+TFEU173-p3
+ITRE/9/03006 F Proposal for a decision of the European Parliament and of the Council on establishing the specific programme implementing Horizon 04 Ehler Christian Nica Dan - S&D Corrado Andre
+Europe – the Framework Programme for Research and Innovation
+Mihaylova Iskra - Renew Heriard Cécile
+Lizzi Elena - ID
+Dalunde Jakop G. - Verts/ALE
+Tošenovský Evžen - ECR
+Matias Marisa - GUE/NGL
+2018/0225(COD) COM(2020)0459 [02] C9-0167/2020 TFEU182-p4 EP159 F ITRE/9/03006 R - Report Ehler Christian (RAP) - PPE 13/06/18 15/10/20 (R)
+(***I) - (3.00) TFEU173-p3 EP59-p4
+08550/2019
+COM(2018)0436 C8-0253/2018
+Page 1  of 8 Committee: ITRE | Dossier Code: * | Phase: 01 - 04 | Procedure Type: ACI, APP, BUD, CNS, COD, DCE, DEA, DEC, GBD, IMM, INI, INL, INS, NLE, REG, RPS, RSO, RSP | Rapporteur: * | Responsible: * | F/A: *
+EN
+PAGE: 3
+ITER Reporting 01/12/2020
+Work in Progress - Referred Dossiers - Committee (ITRE)
+ITER0002 09:27:07
+Dossier F/A Dossier Title +  Dossier Comments Phase Rapporteur Shadow Rapporteur Responsible
+Procedure Ref. Base & Alias Ann. Date F/A Dossier Dec. Type Adopted Amend. Rapporteur Appointed Group PE Documents FdR Sess. Legal base Rules Exchange
+DGIp/Xp
+Stars - Phase Contribution Trans. Letter
+DGPres
+ITRE/9/03007 F Establishing the European Defence Fund 04 Krasnodębski Zdzisław Bellamy François-Xavier - PPE Corrado Andre
+Toia Patrizia - S&D Toplicanec Martina
+Riquet Dominique - Renew
+Tovaglieri Isabella - ID
+Bloss Michael - Verts/ALE
+Botenga Marc - GUE/NGL
+2018/0254(COD) COM(2018)0476 C8-0268/2018 TFEU183 EP59-p4 F ITRE/9/03007 R - Report Krasnodębski Zdzisław (RAP) - ECR 25/06/18
+(***I) - (3.00) TFEU173-p3
+TFEU188-p2
+TFEU182-p4
+ITRE/9/03008 F Establishing the space programme of the Union and the European Union Agency for the Space Programme 04 Salini Massimiliano Zorrinho Carlos - S&D Ott Sven Michael
+Grudler Christophe - Renew
+Tovaglieri Isabella - ID
+Boeselager Damian - Verts/ALE
+Tošenovský Evžen - ECR
+Bompard Manuel - GUE/NGL
+2018/0236(COD) COM(2018)0447 C8-0258/2018 TFEU189 EP59-p4 F ITRE/9/03008 R - Report Salini Massimiliano (RAP) - PPE 12/06/18
+(***I) - (3.00)
+ITRE/9/03009 F Establishing the Digital Europe programme for the period 2021-2027 04 Flego Valter del Castillo Vera Pilar - PPE Brzozowski Przemyslaw
+Zorrinho Carlos - S&D
+Boeselager Damian - Verts/ALE
+Roos Robert - ECR
+Kountoura Elena - GUE/NGL
+2018/0227(COD) COM(2018)0434 C8-0256/2018 TFEU172 EP159 F ITRE/9/03009 R - Report Flego Valter (RAP) - Renew 23/07/19
+(***I) - (3.00) TFEU173-p3 EP59-p4
+ITRE/9/03525 F Amending Decision 2008/376/EC on the adoption of the Research Programme of the Research Fund for Coal and Steel and on the 04 Buşoi Cristian-Silviu Kohut Łukasz - S&D D'Angelo Sandro
+multiannual technical guidelines for this programme
+Ijabs Ivars - Renew
+Solé Jordi - Verts/ALE
+Tošenovský Evžen - ECR
+2020/0141(NLE) COM(2020)0320 C9-0214/2020 14/09/20 TEU37 F ITRE/9/03525 R - Report 27/01/21 Buşoi Cristian-Silviu (RAP) - PPE 10/09/20
+(*) - (2.10) A BUDG/9/03526 P - Without opinion
+A EMPL/9/04064 P - Without opinion
+A ENVI/9/03527 P - Without opinion
+A REGI/9/03528 P - Without opinion
+ITRE/9/04195 F Establishing the European High Performance Computing Joint Undertaking 01
+2020/0260(NLE) COM(2020)0569 C9-0335/2020 11/11/20 TFEU187 F ITRE/9/04195
+(*) - (2.10) TFEU188-a1 A BUDG/9/04196 P - Without opinion
+ITRE/9/04368 F Commission Delegated Regulation supplementing Directive 2010/31/EU of the European Parliament and of the Council by establishing 01
+an optional common European Union scheme for rating the smart readiness of buildings
+2020/2831(DEA) C(2020)06930 21/10/20 F ITRE/9/04368
+(2.10)
+ITRE/9/04692 F Establishing a dedicated financial programme for decommissioning of nuclear facilities and management of radioactive waste 01
+Page 2  of 8 Committee: ITRE | Dossier Code: * | Phase: 01 - 04 | Procedure Type: ACI, APP, BUD, CNS, COD, DCE, DEA, DEC, GBD, IMM, INI, INL, INS, NLE, REG, RPS, RSO, RSP | Rapporteur: * | Responsible: * | F/A: *
+EN
+PAGE: 4
+ITER Reporting 01/12/2020
+Work in Progress - Referred Dossiers - Committee (ITRE)
+ITER0002 09:27:07
+Dossier F/A Dossier Title +  Dossier Comments Phase Rapporteur Shadow Rapporteur Responsible
+Procedure Ref. Base & Alias Ann. Date F/A Dossier Dec. Type Adopted Amend. Rapporteur Appointed Group PE Documents FdR Sess. Legal base Rules Exchange
+DGIp/Xp
+Stars - Phase Contribution Trans. Letter
+DGPres
+2018/0252(NLE) 12525/2020 C9-0363/2020 23/11/20 A203 EP159 F ITRE/9/04692
+(*) - (2.10)
+COM(2018)0467 C8-0314/2018
+ITRE/9/04735 F European data governance (Data Governance Act) 01
+2020/0340(COD) COM(2020)0767 C9-0377/2020 TFEU114-p1 F ITRE/9/04735
+(1.30) A IMCO/9/04736
+A JURI/9/04738
+A LIBE/9/04737
+ITRE/9/02825 F* A European strategy for data 04 Kumpula-Natri Miapetra Maydell Eva - PPE Toplicanec Martina
+Danti Nicola - Renew
+Mélin Joëlle - ID
+Boeselager Damian - Verts/ALE
+Tošenovský Evžen - ECR
+Bompard Manuel - GUE/NGL
+2020/2217(INI) 22/10/20 EP54 F* ITRE/9/02825 R - Report 12/11/20 Kumpula-Natri Miapetra (RAP) - S&D 21/04/20 S&D PE657.163v03-00 PR 1212999 09/11/20 (R)
+(2.10) EP57 PE660.285v01-00 AM 1218025
+A* IMCO/9/04414 A - Opinion 11/01/21 (P) 17/11/20 Schaldemose Christel (RAO) - S&D 01/04/20 S&D PE659.085v01-00 PA 1216480 02/12/20 (P)
+PE660.338v01-00 AM 1218321 09/11/20 (R)
+A* TRAN/9/03137 A - Opinion 25/01/21 (P) 11/11/20 Haider Roman (RAO) - ID 03/06/20 ID PE652.598v01-00 PA 1206583 01/12/20 (P)
+PE660.081v01-00 AM 1216779
+A* JURI/9/04415 A - Opinion 23/11/20 Voss Axel (RAO) - PPE 12/10/20 PE660.120v01-00 PA 1217061 07/12/20 (P)
+PE660.437v01-00 AM 1218905 16/11/20 (R)
+A* LIBE/9/04417 A - Opinion 16/11/20 Kaljurand Marina (RAO) - S&D 11/06/20 S&D PE659.067v01-00 PA 1216394 10/11/20 (R)
+PE659.076v01-00 AM 1216435
+A INTA/9/04418 P - Without opinion
+A EMPL/9/04420 P - Without opinion
+A ENVI/9/04433 P - Without opinion
+A AGRI/9/03118 A - Opinion 22/09/20 (R) 30/06/20 Zoido Álvarez Juan Ignacio (RAO) - 27/05/20 PPE PE652.570v02-00 AD 1213747 18/06/20 (P)
+PPE
+PE652.570v01-00 PA 1206459
+PE653.991v01-00 AM 1208682
+A CULT/9/03111 A - Opinion 26/01/21 (P) 10/11/20 Maxová Radka (RAO) - Renew 22/04/20 Renew PE652.540v01-00 PA 1206318
+PE653.891v01-00 AM 1208278
+ITRE/9/04092 F* A European Strategy for Energy System Integration 04 Grudler Christophe Salini Massimiliano - PPE Dessimirova Denitza
+González Casares Nicolás - S&D Dorgeret Nicolas
+Borchia Paolo - ID
+Dalunde Jakop G. - Verts/ALE
+de la Pisa Carrión Margarita - ECR
+Ernst Cornelia - GUE/NGL
+2020/2241(INI) EP54 F* ITRE/9/04092 R - Report 10/12/20 Grudler Christophe (RAP) - Renew 22/07/20 Renew PE658.868v01-00 PR 1215105 01/12/20 (P)
+(1.30) EP57 A* TRAN/9/04539 A - Opinion 04/12/20 Kountoura Elena (RAO) - GUE/NGL 03/11/20 GUE/NGL PE660.213v01-00 PA 1217674 30/11/20 (P)
+A ENVI/9/04664 P - Without opinion
+ITRE/9/04093 F* A European Strategy for Hydrogen 04 Geier Jens Niebler Angelika - PPE Yeraris Konstantinos
+Groothuis Bart - Renew
+Mariani Thierry - ID
+Carême Damien - Verts/ALE
+Krasnodębski Zdzisław - ECR
+Bompard Manuel - GUE/NGL
+Page 3  of 8 Committee: ITRE | Dossier Code: * | Phase: 01 - 04 | Procedure Type: ACI, APP, BUD, CNS, COD, DCE, DEA, DEC, GBD, IMM, INI, INL, INS, NLE, REG, RPS, RSO, RSP | Rapporteur: * | Responsible: * | F/A: *
+EN
+PAGE: 5
+ITER Reporting 01/12/2020
+Work in Progress - Referred Dossiers - Committee (ITRE)
+ITER0002 09:27:07
+Dossier F/A Dossier Title +  Dossier Comments Phase Rapporteur Shadow Rapporteur Responsible
+Procedure Ref. Base & Alias Ann. Date F/A Dossier Dec. Type Adopted Amend. Rapporteur Appointed Group PE Documents FdR Sess. Legal base Rules Exchange
+DGIp/Xp
+Stars - Phase Contribution Trans. Letter
+DGPres
+2020/2242(INI) EP57 F* ITRE/9/04093 R - Report 10/12/20 Geier Jens (RAP) - S&D 12/08/20 S&D PE658.772v03-00 PR 1218637 01/12/20 (P)
+(1.30) EP54 A* ENVI/9/04288 A - Opinion 25/01/21 (P) 23/11/20 Bentele Hildegard (RAO) - PPE 01/10/20 PPE PE658.815v02-00 PA 1217059 16/11/20 (R)
+PE660.370v01-00 AM 1218497
+A* TRAN/9/04538 A - Opinion 03/12/20 Mayer Georg (RAO) - ID 03/11/20 ID PE660.164v01-00 PA 1217385 30/11/20 (P)
+ITRE/9/02824 A* Shaping the digital future of Europe: removing barriers to the functioning of the digital single market and improving the use of AI for 04 Beer Nicola Virkkunen Henna - PPE Cordova Gonzalez-Castillo Hugo
+European consumers
+Zorrinho Carlos - S&D
+Mayer Georg - ID
+Peksa Mikuláš - Verts/ALE
+Tošenovský Evžen - ECR
+Kountoura Elena - GUE/NGL
+2020/2216(INI) 22/10/20 EP57 F* IMCO/9/04404 R - Report 26/01/21 Clune Deirdre (RAP) - PPE 01/09/20 PPE 11/01/21 (P)
+(2.10) EP54 A* INTA/9/04408 A - Opinion 22/02/21 (P) 28/01/21 Bourgeois Geert (RAO) - ECR 29/10/20 ECR 25/01/21 (P)
+A* ITRE/9/02824 A - Opinion 10/12/20 Beer Nicola (RAP) - Renew 01/07/20 Renew PE660.166v01-00 PA 1217406 07/12/20 (P)
+A* TRAN/9/03135 A - Opinion 25/01/21 (P) 10/12/20 Złotowski Kosma (RAO) - ECR 03/06/20 ECR PE660.188v01-00 PA 1217505 25/01/21 (P)
+A* CULT/9/03686 A - Opinion Verheyen Sabine (RAO) - PPE 29/06/20 PPE 26/01/21 (P)
+A* JURI/9/04406 A - Opinion 14/12/20 Walsmann Marion (RAO) - PPE 12/10/20 PE660.397v02-00 PA 1219408 07/12/20 (P)
+A* LIBE/9/04410 A - Opinion 22/02/21 (P) 14/12/20 Tardino Annalisa (RAO) - ID 12/05/20 ID PE660.406v01-00 PA 1218743 07/12/20 (P)
+A EMPL/9/03384 A - Opinion 17/03/21 (P) 18/01/21 Arvanitis Konstantinos (RAO) - 27/05/20 GUE/NGL 01/02/21 (P)
+GUE/NGL
+14/01/21 (P)
+A FEMM/9/04101 A - Opinion PPE
+ITRE/9/02951 A* New Circular Economy Action Plan 04 Toia Patrizia Arimont Pascal - PPE Sandu Eugen
+Ijabs Ivars - Renew
+Gancia Gianna - ID
+Niinistö Ville - Verts/ALE
+Tobiszowski Grzegorz - ECR
+Bompard Manuel - GUE/NGL
+2020/2077(INI) 27/05/20 08/02/21 EP54 F* ENVI/9/02949 R - Report 25/01/21 (P) 22/10/20 Huitema Jan (RAP) - Renew 14/05/20 Renew PE652.387v02-00 PR 1215528 15/10/20 (R)
+(2.10) 08/02/21 PE657.318v01-00 AM 1213135
+PE660.071v02-00 AM 1216892
+A* ITRE/9/02951 A - Opinion 01/12/20 (P) 13/10/20 Toia Patrizia (RAO) - S&D 02/06/20 PE653.859v01-00 PA 1207998
+PE658.981v02-00 AM 1216821
+A* IMCO/9/02950 A - Opinion 09/11/20 (R) 09/09/20 Cavazzini Anna (RAO) - Verts/ALE 01/04/20 Verts/ALE PE652.282v02-00 AD 1217518 26/10/20 (R)
+PE652.282v01-00 PA 1205066 02/09/20 (R)
+PE657.284v01-00 AM 1212785
+A INTA/9/02952 A - Opinion 10/11/20 (R) 30/09/20 Hahn Svenja (RAO) - Renew 19/05/20 Renew PE653.833v02-00 AD 1217213 24/09/20 (R)
+PE653.833v01-00 PA 1207790
+PE658.809v01-00 AM 1214775
+A EMPL/9/02955 P - Without opinion
+A TRAN/9/02953 A - Opinion 10/11/20 (R) 07/09/20 Paulus Jutta (RAO) - Verts/ALE 12/05/20 Verts/ALE PE655.632v02-00 AD 1217605 10/11/20 (R)
+PE655.632v01-00 PA 1209849 29/10/20 (R)
+PE657.253v01-00 AM 1212603
+A AGRI/9/02954 A - Opinion 15/10/20 Gruffat Claude (RAO) - Verts/ALE 07/07/20 Verts/ALE PE657.453v01-00 PA 1213853 30/11/20 (P)
+PE658.983v01-00 AM 1215645
+ITRE/9/04070 A* Commission Regulation (EU) amending Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council 01
+concerning the Registration, Evaluation, Authorisation and Restriction of Chemicals (REACH) as regards lead in gunshot in or around
+wetlands
+2020/2771(RPS) D064660/06 16/09/20 F* ENVI/9/04069 R - Report
+(2.10) A* ITRE/9/04070
+A* IMCO/9/04071
+Page 4  of 8 Committee: ITRE | Dossier Code: * | Phase: 01 - 04 | Procedure Type: ACI, APP, BUD, CNS, COD, DCE, DEA, DEC, GBD, IMM, INI, INL, INS, NLE, REG, RPS, RSO, RSP | Rapporteur: * | Responsible: * | F/A: *
+EN
+PAGE: 6
+ITER Reporting 01/12/2020
+Work in Progress - Referred Dossiers - Committee (ITRE)
+ITER0002 09:27:07
+Dossier F/A Dossier Title +  Dossier Comments Phase Rapporteur Shadow Rapporteur Responsible
+Procedure Ref. Base & Alias Ann. Date F/A Dossier Dec. Type Adopted Amend. Rapporteur Appointed Group PE Documents FdR Sess. Legal base Rules Exchange
+DGIp/Xp
+Stars - Phase Contribution Trans. Letter
+DGPres
+ITRE/9/04615 A* Commission Delegated Decision supplementing Regulation (EU, Euratom) 2018/1046 of the European Parliament and of the Council 01
+with detailed conditions for the calculation of the effective provisioning rate of the common provisioning fund
+2020/2868(DEA) C(2020)07684 25/11/20 EP58 F* CJ13/9/04613
+(2.10) A* EMPL/9/04614
+A* ITRE/9/04615
+A* TRAN/9/04616
+A* REGI/9/04617
+A* AGRI/9/04618
+ITRE/9/00200 A Respect for private life and the protection of personal data in electronic communications and repealing Directive 2002/58/EC 03 Benzing Holger
+(Regulation on Privacy and Electronic Communications)
+2017/0003(COD) COM(2017)0010 C8-0009/2017 21/10/19 TFEU016-p2 F LIBE/9/00198 R - Report 19/10/17 (R) Sippel Birgit (RAP) - S&D 04/09/19 S&D PE606.011v01-00 PR 1127393
+(***I) - (2.40) TFEU114 A ENVI/9/00201 P - Without opinion
+A ITRE/9/00200 A - Opinion 02/10/17 (R) PE602.722v02-00 AD 1135572
+PE602.722v01-00 PA 1121218
+A IMCO/9/00202 A - Opinion 28/09/17 (R) PE604.857v01-00 PA 1126536
+A JURI/9/00199 A - Opinion 02/10/17 (R) PE605.986v02-00 AD 1135865
+PE605.986v01-00 PA 1127297
+ITRE/9/00219 A Directive of the European parliament and of the Council on the legal and operational framework of the European services e-card 01 Brzozowski Przemyslaw
+introduced by Regulation ....[ESC regulation]....
+2016/0402(COD) COM(2016)0823 C8-0013/2017 01/02/17 TFEU062 F IMCO/9/00213 Løkkegaard Morten (RAP) - Renew 18/07/19
+(***I) - (2.10) TFEU053-p1 A CONT/9/00216 P - Without opinion
+A ECON/9/00217 P - Without opinion
+A EMPL/9/00215 P - Without opinion
+A ENVI/9/00218
+A ITRE/9/00219
+A JURI/9/00214 P - Without opinion
+A PETI/9/00220 P - Without opinion
+ITRE/9/00227 A Regulation of the European Parliament and of the Council introducing a European services e-card and related administrative facilities 01 Brzozowski Przemyslaw
+2016/0403(COD) COM(2016)0824 C8-0014/2017 01/02/17 TFEU114 F IMCO/9/00221 ECR
+(***I) - (2.10) A CONT/9/00224 P - Without opinion
+A ECON/9/00225 P - Without opinion
+A EMPL/9/00223 P - Without opinion
+A ENVI/9/00226
+A ITRE/9/00227
+A JURI/9/00222 P - Without opinion
+A PETI/9/00228 P - Without opinion
+ITRE/9/00439 A 2020 Budget  - Mandate for the Trilogue 01
+2019/2010(BUD) F BUDG/9/00428 PE639.634v01-00 DT 1185370
+(2.10) A AFET/9/00434 P - Without opinion
+A DEVE/9/00432 P - Without opinion
+A INTA/9/00444 P - Without opinion
+A CONT/9/00442 P - Without opinion
+Page 5  of 8 Committee: ITRE | Dossier Code: * | Phase: 01 - 04 | Procedure Type: ACI, APP, BUD, CNS, COD, DCE, DEA, DEC, GBD, IMM, INI, INL, INS, NLE, REG, RPS, RSO, RSP | Rapporteur: * | Responsible: * | F/A: *
+EN
+PAGE: 7
+ITER Reporting 01/12/2020
+Work in Progress - Referred Dossiers - Committee (ITRE)
+ITER0002 09:27:07
+Dossier F/A Dossier Title +  Dossier Comments Phase Rapporteur Shadow Rapporteur Responsible
+Procedure Ref. Base & Alias Ann. Date F/A Dossier Dec. Type Adopted Amend. Rapporteur Appointed Group PE Documents FdR Sess. Legal base Rules Exchange
+DGIp/Xp
+Stars - Phase Contribution Trans. Letter
+DGPres
+A ECON/9/00441 P - Without opinion
+A EMPL/9/00438 P - Without opinion
+A ENVI/9/00437
+A ITRE/9/00439
+A IMCO/9/00445 P - Without opinion
+A TRAN/9/00446
+A REGI/9/00447 P - Without opinion
+A AGRI/9/00436
+A PECH/9/00435 P - Without opinion
+A CULT/9/00433
+A JURI/9/00440
+A LIBE/9/00443 P - Without opinion
+A AFCO/9/00431 P - Without opinion 02/04/19 (R)
+A FEMM/9/00430 P - Without opinion
+A PETI/9/00429 P - Without opinion
+ITRE/9/01966 A The impact on the fishing sector of offshore windfarms and other renewable energy systems 04 Petersen Morten Patriciello Aldo - PPE Dessimirova Denitza
+González Casares Nicolás - S&D
+Mélin Joëlle - ID
+Paulus Jutta - Verts/ALE
+Tobiszowski Grzegorz - ECR
+Kountoura Elena - GUE/NGL
+2019/2158(INI) 19/12/19 EP54 F PECH/9/01965 R - Report van Dalen Peter (RAP) - PPE 19/12/19 PPE PE660.212v01-00 DT 1217673 03/12/20 (P)
+(2.10) 07/06/21 A ITRE/9/01966 A - Opinion 29/10/20 Petersen Morten (RAO) - Renew 19/12/19 Renew PE648.288v01-00 PA 1199156 28/09/20 (P)
+PE654.067v01-00 AM 1209386
+ITRE/9/02552 A Towards a WTO-compatible EU carbon border adjustment mechanism 04 Geier Jens Tobé Tomas - PPE Dessimirova Denitza
+Grošelj Klemen - Renew
+Borchia Paolo - ID
+Carême Damien - Verts/ALE
+Kloc Izabela-Helena - ECR
+Bompard Manuel - GUE/NGL
+2020/2043(INI) 16/04/20 EP54 F* ENVI/9/02638 R - Report 25/01/21 (P) 10/11/20 Jadot Yannick (RAP) - Verts/ALE 16/04/20 Verts/ALE PE648.519v01-00 PR 1201123 28/10/20 (R)
+(2.10) PE660.204v01-00 AM 1217596
+A* INTA/9/02639 A - Opinion 10/12/20 (P) 30/10/20 Karlsbro Karin (RAO) - Renew 19/02/20 PE657.463v01-00 PA 1213876 07/12/20 (P)
+PE660.137v01-00 AM 1217178 10/11/20 (R)
+26/10/20 (R)
+A* ECON/9/02640 A - Opinion 10/12/20 (P) 10/11/20 Garicano Luis (RAO) - Renew 23/04/20 Renew PE657.390v01-00 PA 1213500
+PE660.214v01-00 AM 1217687
+A BUDG/9/03347 A - Opinion 10/12/20 (P) 17/11/20 Gualmini Elisabetta (RAO) - S&D 25/06/20 PE653.861v01-00 PA 1208018 10/11/20 (R)
+PE660.345v01-00 AM 1218392
+A ITRE/9/02552 A - Opinion 07/12/20 (P) 01/10/20 Geier Jens (RAO) - S&D 21/04/20 S&D PE655.622v01-00 PA 1209809
+PE658.773v01-00 AM 1214422
+ITRE/9/04048 A Report on discharge in respect of the implementation of the budget of the European Union agencies for the financial year 2019: 01
+performance, financial management and control
+2020/2194(DEC) COM(2020)0288 [51] C9-0282/2020 15/09/20 F CONT/9/04036 R - Report 22/03/21 (P) Czarnecki Ryszard (RAP) - ECR 08/09/20 ECR 22/02/21 (P)
+(2.10) A AFET/9/04042 P - Without opinion
+A DEVE/9/04040 P - Without opinion
+A INTA/9/04052 P - Without opinion
+A BUDG/9/04047 P - Without opinion
+A ECON/9/04050 P - Without opinion
+Page 6  of 8 Committee: ITRE | Dossier Code: * | Phase: 01 - 04 | Procedure Type: ACI, APP, BUD, CNS, COD, DCE, DEA, DEC, GBD, IMM, INI, INL, INS, NLE, REG, RPS, RSO, RSP | Rapporteur: * | Responsible: * | F/A: *
+EN
+PAGE: 8
+ITER Reporting 01/12/2020
+Work in Progress - Referred Dossiers - Committee (ITRE)
+ITER0002 09:27:07
+Dossier F/A Dossier Title +  Dossier Comments Phase Rapporteur Shadow Rapporteur Responsible
+Procedure Ref. Base & Alias Ann. Date F/A Dossier Dec. Type Adopted Amend. Rapporteur Appointed Group PE Documents FdR Sess. Legal base Rules Exchange
+DGIp/Xp
+Stars - Phase Contribution Trans. Letter
+DGPres
+A EMPL/9/04046 A - Opinion 22/02/21 (P) 20/01/21 Tomc Romana (RAO) - PPE 30/09/20 PPE 14/01/21 (P)
+A ENVI/9/04045 P - Without opinion
+A ITRE/9/04048
+A IMCO/9/04053 P - Without opinion
+A TRAN/9/04054 P - Without opinion
+A REGI/9/04055 P - Without opinion
+A AGRI/9/04044 P - Without opinion
+A PECH/9/04043
+A CULT/9/04041 P - Without opinion
+A JURI/9/04049 P - Without opinion
+A LIBE/9/04051 A - Opinion Chinnici Caterina (RAO) - S&D 01/10/20 S&D 07/12/20 (P)
+A AFCO/9/04039 P - Without opinion
+A FEMM/9/04038 P - Without opinion
+A PETI/9/04037 P - Without opinion
+ITRE/9/04632 A A reinforced role for the European Medicines Agency in crisis preparedness and management for medicinal products and medical 03
+devices
+2020/0321(COD) COM(2020)0725 C9-0365/2020 TFEU168-p4 F ENVI/9/04630 R - Report González Casares Nicolás (RAP) - 25/11/20 S&D
+S&D
+(1.30) TFEU114-p1
+A BUDG/9/04633
+A ITRE/9/04632 A - Opinion ID
+A IMCO/9/04631
+ITRE/9/04741 A Commission Regulation amending Annex XIV to Regulation (EU) No 1907/2006 of the European Parliament and of the Council as 01
+regards the substance group 4-(1,1,3,3-tetramethylbutyl)phenol, ethoxylated (covering well-defined substances and substances of
+unknown or variable composition, complex reaction products or biological materials, polymers and homologues)
+2020/2898(RPS) D070073/02 F ENVI/9/04739 R - Report 01/12/20 (P) Canfin Pascal (RAP) - Renew 19/11/20 30/11/20 (P)
+(1.30) A ITRE/9/04741
+A IMCO/9/04740
+Page 7  of 8 Committee: ITRE | Dossier Code: * | Phase: 01 - 04 | Procedure Type: ACI, APP, BUD, CNS, COD, DCE, DEA, DEC, GBD, IMM, INI, INL, INS, NLE, REG, RPS, RSO, RSP | Rapporteur: * | Responsible: * | F/A: *
+EN
+PAGE: 9
+ITER Reporting 01/12/2020
+Work in Progress - Referred Dossiers - Committee (ITRE)
+ITER0002 09:27:07
+Dossier F/A Dossier Title +  Dossier Comments Phase Rapporteur Shadow Rapporteur Responsible
+Procedure Ref. Base & Alias Ann. Date F/A Dossier Dec. Type Adopted Amend. Rapporteur Appointed Group PE Documents FdR Sess. Legal base Rules Exchange
+DGIp/Xp
+Stars - Phase Contribution Trans. Letter
+DGPres
+Joint committee procedure - ITRE and TRAN (CJ05)
+CJ05/9/01732 F Establishing the Connecting Europe Facility 02 Marinescu Marian-Jean Kumpula-Natri Miapetra - S&D Dessimirova Denitza
+Riquet Dominique García Muñoz Isabel - S&D
+Virkkunen Henna Petersen Morten - Renew
+Campomenosi Marco - ID
+Borchia Paolo - ID
+Toussaint Marie - Verts/ALE
+Cuffe Ciarán - Verts/ALE
+Zīle Roberts - ECR
+Kloc Izabela-Helena - ECR
+Pereira Sandra - GUE/NGL
+Kountoura Elena - GUE/NGL
+2018/0228(COD) COM(2018)0438 C8-0255/2018 TFEU194-p2 EP59-p4 F CJ05/9/01732 Marinescu Marian-Jean (CRE) - PPE 03/09/19
+(***I) - (3.00) TFEU172 EP58 Riquet Dominique (CRE) - Renew 03/09/19
+Virkkunen Henna (CRE) - PPE 03/09/19
+Page 8  of 8 Committee: ITRE | Dossier Code: * | Phase: 01 - 04 | Procedure Type: ACI, APP, BUD, CNS, COD, DCE, DEA, DEC, GBD, IMM, INI, INL, INS, NLE, REG, RPS, RSO, RSP | Rapporteur: * | Responsible: * | F/A: *
+EN
+Done in 1.06s.
