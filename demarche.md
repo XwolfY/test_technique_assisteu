@@ -78,3 +78,6 @@ datas en combinant regexp & position x & y
 M.a.j régulières & Fork de PDF.js (Mozilla)
 - CSV writer => [Github](https://github.com/ryu1kn/csv-writer#readme)
 Utilisé par beaucoup de personnes & M.a.j régulières
+
+#### Tests à effectuer :
+- Tester avec d'autres pdfs afin de voir si le position en x sont toujours les mêmes.
